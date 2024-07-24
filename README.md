@@ -9,6 +9,7 @@
   <b>fig 1. 군집화된 유사경로들.</b>
 </p>
 <br/><br/>
+
 * 데이터 : gelife trajectory 1.3 (https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 * 방법론 : d_stat_distance +fast_dtw + agglomerative clustering & cosine sim
 * 개발언어 : python3
