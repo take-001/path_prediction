@@ -6,7 +6,7 @@
 <img width="796" alt="Screenshot 2024-07-24 at 12 55 39 PM" src="https://github.com/user-attachments/assets/e5a7e2bd-440e-4c1e-b8ea-0820f1bcc582">
 </p>
 <p align="center">
-  **fig 1. 군집화된 유사경로들.**
+  ** fig 1. 군집화된 유사경로들. **
 </p>
 <br/><br/>
 * 데이터 : gelife trajectory 1.3 (https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
