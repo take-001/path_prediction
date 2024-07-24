@@ -1,7 +1,9 @@
 # path_prediction
 ##### d_stat_distance +fast_dtw + agglomerative clustering 을 사용한 경로 군집화와 코사인 유사도를 활용한 경로 에측 프로젝트
-<img width="796" alt="Screenshot 2024-07-24 at 12 55 39 PM" src="https://github.com/user-attachments/assets/e5a7e2bd-440e-4c1e-b8ea-0820f1bcc582">
 
+<p align="center">
+<img width="796" alt="Screenshot 2024-07-24 at 12 55 39 PM" src="https://github.com/user-attachments/assets/e5a7e2bd-440e-4c1e-b8ea-0820f1bcc582">
+</p>
 * 데이터 : gelife trajectory 1.3 (https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 * 방법론 : d_stat_distance +fast_dtw + agglomerative clustering & cosine sim
 * 개발언어 : python3
