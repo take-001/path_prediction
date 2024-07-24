@@ -1,6 +1,5 @@
 # path_prediction
-### 커스텀한 fast_dtw + agglomerative clustering 을 사용한 경로 군집화와 
-### 코사인 유사도를 활용한 경로 에측 프로젝트
+### 커스텀한 fast_dtw + agglomerative clustering 을 사용한 경로 군집화와 코사인 유사도를 활용한 경로 에측 프로젝트💡
 
 
 <p align="center">
